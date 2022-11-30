@@ -29,8 +29,8 @@ def run():
 	
 
 	print("[INFO] Starting the video..")
-	vs = cv2.VideoCapture("sample3.mp4")
-	#vs = cv2.VideoCapture(0)
+	#vs = cv2.VideoCapture("sample3.mp4")
+	vs = cv2.VideoCapture(0)
 
 	# initialize the video writer (we'll instantiate later if need be)
 	writer = None
