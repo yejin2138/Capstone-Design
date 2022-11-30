@@ -1,0 +1,5 @@
+python idle 설치후
+cmd 창을 실행합니다.
+cd python path.... /script
+
+pip install -r requirements.txt
